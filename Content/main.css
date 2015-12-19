@@ -1,0 +1,65 @@
+h1 {
+    padding-bottom: 1%;
+    padding-left: .33%;
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+h2 {
+    padding-bottom: .8%;
+    padding-left: .25%;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+h3 {
+    padding-bottom: .65%;
+    padding-left: .15%;
+    font-size: 1.05em;
+    font-weight: bold;
+}
+p{
+    padding: 2px;
+    padding-bottom: 1%;
+    
+}
+
+.nav-bar{
+    height: 40px;
+    background-color: crimson;
+}
+.nav-bar ul{
+    text-align: right;
+    margin: 0;
+    padding: 0px;
+}
+.nav-bar li{
+    display: inline-block;
+    overflow: auto;
+}
+.nav-bar li:hover{
+    background-color: magenta;
+}
+.nav-bar{
+    text-decoration: none;
+    color: white;
+}
+.nav-bar a{
+    padding: 0px 15px;
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
+    width: auto;
+    display:block;
+}    
+.nav-bar a:hover{
+        
+}
+.nav-bar .active{
+    background-color: black;   
+}
+
+.Handbook{
+    resize: both;
+    width: 30%;
+    height: 30%;
+}
